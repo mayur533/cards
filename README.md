@@ -186,7 +186,11 @@ cards.forEach((card) => {
 
 ## Working with the card data project
 
-### Contributing
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
 
 We welcome contributions to improve the card data library! Here's how you can help:
 
