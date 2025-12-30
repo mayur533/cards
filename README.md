@@ -186,6 +186,23 @@ cards.forEach((card) => {
 
 ## Working with the card data project
 
+### Contributing
+
+We welcome contributions to improve the card data library! Here's how you can help:
+
+- **Data Updates**: Submit issues for incorrect card data or missing cards
+- **Documentation**: Help improve README and code documentation  
+- **Code**: Submit pull requests for bug fixes or enhancements
+- **Testing**: Add test cases for card data validation
+
+### Contribution Process
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request with detailed description
+
 ### Card data
 
 - [src/cards.csv](src/cards.csv) is the source of truth for all generated data. The data is managed in Google Sheets and sourced from [the-fab-cube/flesh-and-blood-cards](https://github.com/the-fab-cube/flesh-and-blood-cards).
